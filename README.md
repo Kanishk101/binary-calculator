@@ -40,7 +40,6 @@ Ensure you have **Python 3.13** installed on your system.
 ```
 ├── binary_calculator_gui.py   # Main script with GUI and logic functions
 ├── README.md                  # Documentation
-└── requirements.txt           # (Optional) Dependencies file
 ```
 
 ## Future Improvements
